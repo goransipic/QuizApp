@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="national_sport">What is national sport of Canada ?</string>
+    <string name="country_olympic">Which country won every Olympic Men\'s hockey gold medal from 1928 to 1956?</string>
+    <string name="olympic_games">Which cities have hosted the Olympic games?</string>
+    <string name="biathlon_event">A biathlon event consists of running a half marathon and biking 56 miles.</string>
+    <string name="many_players_polo">How many players are in a game of water polo ?</string>
+    <string name="canada">Canada</string>
+    <string name="russia">Russia</string>
+    <string name="india">India</string>
+    <string name="usa">USA</string>
+    <string name="athens">Athens</string>
+    <string name="lake_placid">Lake Placid</string>
+    <string name="innsbruck">Innsbruck</string>
+    <string name="new_york">New York</string>
+    <string name="capetown">Capetown</string>
+    <string name="st_moritz">St. Moritz</string>
+    <string name="correct">True</string>
+    <string name="wrong">False</string>
+    <string name="results_list">Results List</string>
+    <string name="submit_answers">Submit Answers</string>
+</resources>
